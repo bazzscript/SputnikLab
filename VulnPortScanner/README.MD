@@ -1,0 +1,1 @@
+This Script Scans 1-1000 Ports of given target(s), Checks for open ports, then checks the services/application/software running on each one(open port), then check whether thier is a known vulnerabilty in the services.
