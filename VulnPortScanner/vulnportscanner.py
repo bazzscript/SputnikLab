@@ -25,7 +25,7 @@ else:
 
 while True:
     try:
-        vul_soft_list = input("[~] Enter Path To the list of vulnerable softwares : ")
+        vul_soft_list = input("[~] Enter Path To the txt list of names vulnerable softwares : ")
         with open(vul_soft_list, 'r') as file:
             count = 0
             for banner in target.banners:
