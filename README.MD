@@ -16,9 +16,9 @@ This is for learning Purpose, Am not Liable to what you do with any of the Scrip
 
  What Does It Do : This Script Scans 1-1000 Ports of given target(s), identifies the open ports and prints the services/application/software running on each one(open port).
 
-### Repo Link: https://github.com/bazzscript/SputnikLab/tree/master/portscanner
+ Repo Link: https://github.com/bazzscript/SputnikLab/tree/master/portscanner
 
-# 📡************************************📡
+### 📡************************************📡
 
 
 
@@ -28,9 +28,10 @@ This is for learning Purpose, Am not Liable to what you do with any of the Scrip
 
  What Does It Do: This Script Scans 1-1000 Ports of given target(s), Checks for open ports, then checks the services/application/software running on each one(open port), then check whether thier is a known vulnerabilty in the services.
 
-### Repo Link: https://github.com/bazzscript/SputnikLab/tree/master/VulnPortScanner
+ Repo Link: https://github.com/bazzscript/SputnikLab/tree/master/VulnPortScanner
 
-# 📡************************************📡
+### 📡************************************📡
+
 
 
 
@@ -39,9 +40,9 @@ This is for learning Purpose, Am not Liable to what you do with any of the Scrip
 
  What Does It Do : An ssh bruteforcer, usefull tool if you are trying to gain access to a target through an ssh connection
 
-### Repo Link: https://github.com/bazzscript/SputnikLab/tree/master/sshbruteforcer
+ Repo Link: https://github.com/bazzscript/SputnikLab/tree/master/sshbruteforcer
 
-# 📡************************************📡
+### 📡************************************📡
 
 
 
@@ -51,6 +52,6 @@ This is for learning Purpose, Am not Liable to what you do with any of the Scrip
 
  What Does It Do: i tried piecing together a chain of commands during a target ping experiment and came up with this.
 
-### Repo Link: https://github.com/bazzscript/SputnikLab/tree/master/ipsweeper
+ Repo Link: https://github.com/bazzscript/SputnikLab/tree/master/ipsweeper
 
-# 📡************************************📡
+### 📡************************************📡
